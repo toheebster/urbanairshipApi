@@ -1,0 +1,16 @@
+{
+  "name": "urbanairshipcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "harrison.js",
+  "dependencies": {
+    "request": "^2.74.0",
+    "request-promise": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "go"
+  },
+  "author": "",
+  "license": "ISC"
+}

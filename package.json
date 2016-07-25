@@ -4,6 +4,9 @@
   "description": "",
   "main": "harrison.js",
   "dependencies": {
+    "fs": "0.0.2",
+    "json2csv": "^3.6.2",
+    "progress": "^1.1.8",
     "request": "^2.74.0",
     "request-promise": "^4.0.2"
   },

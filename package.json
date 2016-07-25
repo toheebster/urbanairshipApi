@@ -12,7 +12,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "go"
+    "harrison": "node harrison.js"
   },
   "author": "",
   "license": "ISC"
